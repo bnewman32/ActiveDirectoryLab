@@ -24,28 +24,92 @@ Download and install Orcale Box: <br/>
 <img src="https://i.imgur.com/7fhhKw9.png" height="80%" width="80%"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Download Windows 2019 Server:  <br/>
+<img src="https://i.imgur.com/ZNq6N1e.png?1" height="80%" width="80%"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Download Windows 10 ISO: <br/>
+<img src="https://i.imgur.com/cRiiWe4.png" height="80%" width="80%"/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Install Windows 2019 Server:  <br/>
+<img src="https://i.imgur.com/WmnuYsa.png" height="80%" width="80%"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Add Internal network adapter to the Windows Server:  <br/>
+<img src="https://i.imgur.com/XJT4I1A.png" height="80%" width="80%"/>
 <br />
 <br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Configure Interal network:  <br/>
+<img src="https://i.imgur.com/F3L1jwF.png" height="80%" width="80%"/>
 <br />
 <br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Install Active Directory Domain Services:  <br/>
+<img src="https://i.imgur.com/K87aMlw.png" height="80%" width="80%"/>
+<br />
+<br />
+Configure Domain:  <br/>
+<img src="https://i.imgur.com/rSUbXfz.png" height="80%" width="80%"/>
+<br />
+<br />
+Add a new Admin:  <br/>
+<img src="https://i.imgur.com/O9KbKZN.png" height="80%" width="80%"/>
+<br />
+<br />
+Change Admins properties:  <br/>
+<img src="https://i.imgur.com/6ujivaK.png" height="80%" width="80%"/>
+<br />
+<br />
+Install a Remote Server:  <br/>
+<img src="https://i.imgur.com/nm3JOYN.png" height="80%" width="80%"/>
+<br />
+<br />
+Configure the Remote Server:  <br/>
+<img src="https://i.imgur.com/e5bgeSb.png" height="80%" width="80%"/>
+<br />
+<br />
+Setup Routing and Remote Access :  <br/>
+<img src="https://i.imgur.com/NT6Hbhk.png" height="80%" width="80%"/>
+<br />
+<br />
+Install a DHCP Server:  <br/>
+<img src="https://i.imgur.com/RL4YapH.png" height="80%" width="80%"/>
+<br />
+<br />
+Configure the Scope for your DHCP:  <br/>
+<img src="https://i.imgur.com/9RtdUKk.png" height="80%" width="80%"/>
+<br />
+<br />
+Configure your Router:  <br/>
+<img src="https://i.imgur.com/MOXknaj.png" height="80%" width="80%"/>
+<br />
+<br />
+Checking DHCP Server:  <br/>
+<img src="https://i.imgur.com/zfqvH5g.png" height="80%" width="80%"/>
+<br />
+<br />
+Making a List of users to add:  <br/>
+<img src="https://i.imgur.com/NWaUvg8.png" height="80%" width="80%"/>
+<br />
+<br />
+Add users using a script with PowerShell:  <br/>
+<img src="https://i.imgur.com/qsPV88v.png" height="80%" width="80%"/>
+<br />
+<br />
+Creat your Windows 10 Client:  <br/>
+<img src="https://i.imgur.com/Yqc3m12.png" height="80%" width="80%"/>
+<br />
+<br />
+Add the Windows 10 Client to the correct Network:  <br/>
+<img src="https://i.imgur.com/V9LuIDj.png" height="80%" width="80%"/>
+<br />
+<br />
+Add the Windows 10 Client to your Domain:  <br/>
+<img src="https://i.imgur.com/BC92fqV.png" height="80%" width="80%"/>
+<br />
+<br />
+Checking to make sure everything is working:  <br/>
+<img src="https://i.imgur.com/5g2yYd1.png" height="80%" width="80%"/>
 </p>
 
 <!--
