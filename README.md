@@ -21,7 +21,7 @@ Project consists of installing a virtual windows 2019 server and a virtual windo
 
 <p align="center">
 Download and install Orcale Box: <br/>
-<img src="https://i.imgur.com/ZNq6N1e.png?1" height="80%" width="80%"/>
+<img src="https://i.imgur.com/7fhhKw9.png" height="80%" width="80%"/>
 <br />
 <br />
 Select the disk:  <br/>
